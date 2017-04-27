@@ -3,11 +3,15 @@ EPAM Java Core courses homework
 
 Click on the green check-mark to see the code
 
+***
 
 ## Table of Contents
-#### [Homework 1](#homework-1)
+### [Homework 1](#homework-1)
 
-##Homework 1
+***
+
+### Homework 1
+
 JDK version: 9 Early Access 165
 
 |     |                 Theme               |             Link to code                                | Notes        |
