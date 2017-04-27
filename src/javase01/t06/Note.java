@@ -1,5 +1,9 @@
 package javase01.t06;
 
+/**
+ * Object representation of a note
+ */
+
 class Note {
     private String text;
 

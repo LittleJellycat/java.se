@@ -1,4 +1,4 @@
-package javase01.t01.logic.main;
+package javase01.t01.main;
 
 import javase01.t01.logic.Logic;
 
